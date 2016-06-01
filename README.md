@@ -26,6 +26,5 @@ month.cgi > a.html
 
 Open the a.html in any web browser. Then you can see the result.
 
-
-
+This program support Web CGI. If you put the execution file into you Web CGI directory and your web-server  execute this by a specific URL, You can see the result on your Web-browser.
 
