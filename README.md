@@ -26,5 +26,14 @@ month.cgi > a.html
 
 Open the a.html in any web browser. Then you can see the result.
 
-This program support Web CGI. If you put the execution file into you Web CGI directory and your web-server  execute this by a specific URL, You can see the result on your Web-browser.
+This program is made for Web CGI interface. If you put the execution file into your Web CGI directory and your web-server  execute this by a specific URL, You can see the result on your Web-browser.
+You can assign Year,month,timezone on WEB-CGI inteface. Or you can assign these parameters like below on command line interface.
+
+month.cgi 2016 7 -540 > 2016_7.html
+
+Take source code for more informations.
+
+
+
+
 
